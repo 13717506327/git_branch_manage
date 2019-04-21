@@ -3,3 +3,8 @@ aaaabbbbcccc
 ddddffffjjjj
 ++++++++++++
 ------------
+git reset test 2
+123333
+
+test rest 3
+test reset 4
