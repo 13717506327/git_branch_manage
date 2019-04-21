@@ -3,3 +3,4 @@ aaaabbbbcccc
 ddddffffjjjj
 ++++++++++++
 ------------
+git reset test 2
