@@ -10,4 +10,5 @@ test rest 3
 test re
 set 4
 2334455  rebase test 2
-git pull --rebase
+git pull --rebase 
+git rebase 
