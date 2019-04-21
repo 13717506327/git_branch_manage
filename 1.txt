@@ -10,3 +10,4 @@ test rest 3
 test re
 set 4
 2334455
+git pull --rebase
