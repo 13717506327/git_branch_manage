@@ -7,4 +7,6 @@ git reset test 2
 123333
 
 test rest 3
-test reset 4
+test re
+set 4
+2334455
